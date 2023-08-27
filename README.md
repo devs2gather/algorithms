@@ -13,4 +13,4 @@ Steps for contirbution
 4. Get your Pull Request merged! 🎉
 
 ## List of Algorithms
-
+Merging two sorted linked lists
