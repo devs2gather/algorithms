@@ -13,4 +13,6 @@ Steps for contirbution
 4. Get your Pull Request merged! 🎉
 
 ## List of Algorithms
+
 Merge sort
+
