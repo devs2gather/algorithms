@@ -15,4 +15,5 @@ Steps for contirbution
 ## List of Algorithms
 
 Merge sort
+Linear Search
 
