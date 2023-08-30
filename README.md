@@ -14,6 +14,9 @@ Steps for contirbution
 
 ## List of Algorithms
 
+- BFS
+- Tim Sort
+- All types of linked list and their operations
 - Merge sort
 - Linear Search
 - kth Smallest Element
