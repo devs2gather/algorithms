@@ -14,6 +14,16 @@ Steps for contirbution
 
 ## List of Algorithms
 
-Merge sort
-Linear Search
+- BFS
+- Tim Sort
+- All types of linked list and their operations
+- Merge sort
+- Linear Search
+- kth Smallest Element
+- Bubble Sort Algorithm
+- Binary Search Algorithm
+- Merging two sorted Linked lists
+- Missing Number in array
+- Quick Sort using C
+- Insertion Sort
 
