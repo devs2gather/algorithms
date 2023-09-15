@@ -26,4 +26,5 @@ Steps for contirbution
 - Missing Number in array
 - Quick Sort using C
 - Insertion Sort
+- Selection Sort 
 
